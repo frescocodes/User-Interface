@@ -83,11 +83,10 @@ h1, h2, h3, h4, h5 {
 	/* padding-top: 50px; */
 	width: 100%;
 	padding-left: 10px;
-	/* fixed navbar
+	/* fixed navbar */
 	position: fixed;
 	top: 30px;
-	z-index: 1; */
-	/* nothing to see here */
+	z-index: 1;
 }
 
 
